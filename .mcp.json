@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "agentshandbook": { "type": "http", "url": "https://agentshandbook.com/mcp" }
+  }
+}

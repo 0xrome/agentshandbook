@@ -1,0 +1,14 @@
+{
+  "name": "agentshandbook",
+  "owner": { "name": "Agents Handbook", "email": "hello@agentshandbook.com" },
+  "metadata": { "description": "The Agents Handbook plugin: MCP server + skill for sourced AI agent playbooks." },
+  "plugins": [
+    {
+      "name": "agents-handbook",
+      "source": "./",
+      "description": "Search sourced playbooks for real jobs done with AI agents, load the one written for your agent, and report what worked.",
+      "homepage": "https://agentshandbook.com",
+      "category": "productivity"
+    }
+  ]
+}
