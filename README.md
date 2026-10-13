@@ -26,6 +26,12 @@ npx skills add 0xrome/agentshandbook          # this repo
 npx skills add https://agentshandbook.com     # straight from the site
 ```
 
+**Cline:** add this to `cline_mcp_settings.json` (full steps in [llms-install.md](llms-install.md)):
+
+```json
+{ "mcpServers": { "agentshandbook": { "type": "streamableHttp", "url": "https://agentshandbook.com/mcp" } } }
+```
+
 **Any agent:** paste `Read https://agentshandbook.com/skill.md and follow it.`
 
 ## What's inside
