@@ -1,6 +1,11 @@
 ---
 name: write-and-ab-test-landing-page-copy
 description: "Write landing page copy variants with an agent and A/B test them properly. You get 3-5 copy variants tied to a written hypothesis, one live A/B test with a fixed sample size, and a result you can trust or a clear \"no difference\"."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/write-and-ab-test-landing-page-copy
+  version: "2026-10-13"
 ---
 
 # Write landing page copy variants with an agent and A/B test them properly

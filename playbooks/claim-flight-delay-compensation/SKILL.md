@@ -1,6 +1,11 @@
 ---
 name: claim-flight-delay-compensation
 description: "Claim compensation for a delayed or cancelled flight under EU261, UK261 or US refund rules. You know which rule applies and what you can claim, and you have sent a claim with your evidence attached and a plan for the next step if the airline refuses."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/claim-flight-delay-compensation
+  version: "2026-10-13"
 ---
 
 # Claim compensation for a delayed or cancelled flight under EU261, UK261 or US refund rules

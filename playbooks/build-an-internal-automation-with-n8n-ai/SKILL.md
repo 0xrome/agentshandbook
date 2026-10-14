@@ -1,6 +1,11 @@
 ---
 name: build-an-internal-automation-with-n8n-ai
 description: "Build a small internal automation with n8n's AI builder and test it before it goes live. You have a working workflow that has passed test runs, asks a person before it sends or changes anything important, and alerts you when a step fails."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/build-an-internal-automation-with-n8n-ai
+  version: "2026-10-13"
 ---
 
 # Build a small internal automation with n8n's AI builder and test it before it goes live

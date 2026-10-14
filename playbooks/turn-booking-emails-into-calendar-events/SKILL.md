@@ -1,6 +1,11 @@
 ---
 name: turn-booking-emails-into-calendar-events
 description: "Turn flight, hotel and booking confirmation emails into calendar events. Every booking in the date range sits on your calendar once, at the right local time, with the confirmation number and address in the event."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/turn-booking-emails-into-calendar-events
+  version: "2026-10-13"
 ---
 
 # Turn flight, hotel and booking confirmation emails into calendar events

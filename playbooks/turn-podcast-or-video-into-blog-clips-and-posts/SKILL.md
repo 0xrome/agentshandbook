@@ -1,6 +1,11 @@
 ---
 name: turn-podcast-or-video-into-blog-clips-and-posts
 description: "Turn a long podcast or video into a blog post, a timestamped clips list and social posts. You get a blog draft, a list of clip candidates with start and end times, and a set of social posts, all checked against a timestamped transcript."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/turn-podcast-or-video-into-blog-clips-and-posts
+  version: "2026-10-13"
 ---
 
 # Turn a long podcast or video into a blog post, a timestamped clips list and social posts

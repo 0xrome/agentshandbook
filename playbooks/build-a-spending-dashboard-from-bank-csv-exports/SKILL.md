@@ -1,6 +1,11 @@
 ---
 name: build-a-spending-dashboard-from-bank-csv-exports
 description: "Build a private spending dashboard from your bank and card CSV exports. You get a local dashboard of spending by month and category that you can rebuild each month, with totals that match your statements."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/build-a-spending-dashboard-from-bank-csv-exports
+  version: "2026-10-13"
 ---
 
 # Build a private spending dashboard from your bank and card CSV exports

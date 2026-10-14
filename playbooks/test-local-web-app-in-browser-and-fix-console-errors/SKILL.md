@@ -1,6 +1,11 @@
 ---
 name: test-local-web-app-in-browser-and-fix-console-errors
 description: "Test your local web app in a real browser and fix console errors in one loop. You get a table of the console errors and failed requests on each route you named, a small fix for each one, and proof from a reload that the error is gone. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/test-local-web-app-in-browser-and-fix-console-errors
+  version: "2026-10-13"
 ---
 
 # Test your local web app in a real browser and fix console errors in one loop

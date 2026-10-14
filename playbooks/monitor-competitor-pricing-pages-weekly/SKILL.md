@@ -1,6 +1,11 @@
 ---
 name: monitor-competitor-pricing-pages-weekly
 description: "Watch competitors' pricing and product pages and get a weekly briefing of real changes. Every week you get a short briefing of meaningful changes to competitors' pricing and product pages, each with the before text, the after text and a link to the saved snapshot."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/monitor-competitor-pricing-pages-weekly
+  version: "2026-10-13"
 ---
 
 # Watch competitors' pricing and product pages and get a weekly briefing of real changes

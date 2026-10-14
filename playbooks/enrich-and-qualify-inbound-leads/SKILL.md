@@ -1,6 +1,11 @@
 ---
 name: enrich-and-qualify-inbound-leads
 description: "Enrich and qualify new inbound leads, then route them with a reason a person can check. Each new lead gets a researched summary, a score, a route and a draft reply, and a person approves the action before anything changes in the CRM or reaches the lead."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/enrich-and-qualify-inbound-leads
+  version: "2026-10-13"
 ---
 
 # Enrich and qualify new inbound leads, then route them with a reason a person can check

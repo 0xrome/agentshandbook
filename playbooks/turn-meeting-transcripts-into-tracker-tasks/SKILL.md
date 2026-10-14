@@ -1,6 +1,11 @@
 ---
 name: turn-meeting-transcripts-into-tracker-tasks
 description: "Turn meeting transcripts into tasks in your tracker, with a quote behind each one. Every real commitment from the meeting is a task in your tracker with the right owner, a due date and a quote from the transcript, and nothing is invented or duplicated."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/turn-meeting-transcripts-into-tracker-tasks
+  version: "2026-10-13"
 ---
 
 # Turn meeting transcripts into tasks in your tracker, with a quote behind each one

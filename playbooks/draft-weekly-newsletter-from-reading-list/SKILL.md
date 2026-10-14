@@ -1,6 +1,11 @@
 ---
 name: draft-weekly-newsletter-from-reading-list
 description: "Draft your weekly newsletter from the links you saved, in your own voice. You get a draft issue with a short, sourced summary of each link you saved, grouped by theme, plus a list of links the agent could not read."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/draft-weekly-newsletter-from-reading-list
+  version: "2026-10-13"
 ---
 
 # Draft your weekly newsletter from the links you saved, in your own voice

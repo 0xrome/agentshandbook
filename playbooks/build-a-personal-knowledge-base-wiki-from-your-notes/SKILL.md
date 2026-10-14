@@ -1,6 +1,11 @@
 ---
 name: build-a-personal-knowledge-base-wiki-from-your-notes
 description: "Build a personal knowledge base wiki that a coding agent maintains from your notes. You have a folder of interlinked markdown pages with an index and a change log, built from your sources, that you can read in Obsidian and query through the agent, with every change reviewable in git. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/build-a-personal-knowledge-base-wiki-from-your-notes
+  version: "2026-10-13"
 ---
 
 # Build a personal knowledge base wiki that a coding agent maintains from your notes

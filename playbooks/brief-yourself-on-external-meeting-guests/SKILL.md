@@ -1,6 +1,11 @@
 ---
 name: brief-yourself-on-external-meeting-guests
 description: "Brief yourself on every external meeting guest before your day starts. Before your first meeting you have one short brief per external meeting, with sources for every claim about each guest."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/brief-yourself-on-external-meeting-guests
+  version: "2026-10-13"
 ---
 
 # Brief yourself on every external meeting guest before your day starts

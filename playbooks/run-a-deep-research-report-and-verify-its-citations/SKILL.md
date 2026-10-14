@@ -1,6 +1,11 @@
 ---
 name: run-a-deep-research-report-and-verify-its-citations
 description: "Run a deep research report and check that every citation supports its claim. You get a report where every factual claim links to a source that loads and says what the report claims, plus a table of the claims you cut or changed. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/run-a-deep-research-report-and-verify-its-citations
+  version: "2026-10-13"
 ---
 
 # Run a deep research report and check that every citation supports its claim

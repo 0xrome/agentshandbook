@@ -1,6 +1,11 @@
 ---
 name: sort-a-messy-downloads-folder
 description: "Sort a messy Downloads or photos folder without losing a single file. Your folder is sorted into a small set of named subfolders, nothing is deleted, and you have a log of every move that you can reverse."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/sort-a-messy-downloads-folder
+  version: "2026-10-13"
 ---
 
 # Sort a messy Downloads or photos folder without losing a single file

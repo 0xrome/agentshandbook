@@ -1,6 +1,11 @@
 ---
 name: plan-weekly-meals-and-fill-a-grocery-cart
 description: "Plan a week of dinners and fill a grocery cart that you check and pay for. You have a week of dinner recipes, one shopping list grouped by aisle, and a reviewed cart at your store that you paid for yourself."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/plan-weekly-meals-and-fill-a-grocery-cart
+  version: "2026-10-13"
 ---
 
 # Plan a week of dinners and fill a grocery cart that you check and pay for

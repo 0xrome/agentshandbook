@@ -1,6 +1,11 @@
 ---
 name: triage-support-inbox-with-approved-replies
 description: "Triage your support inbox and draft replies that a person approves before sending. Every new support email gets a label, a priority and a draft reply grounded in your docs, and a person sends each reply after reading it."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/triage-support-inbox-with-approved-replies
+  version: "2026-10-13"
 ---
 
 # Triage your support inbox and draft replies that a person approves before sending

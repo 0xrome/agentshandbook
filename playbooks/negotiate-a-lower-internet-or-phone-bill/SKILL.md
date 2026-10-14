@@ -1,6 +1,11 @@
 ---
 name: negotiate-a-lower-internet-or-phone-bill
 description: "Negotiate a lower internet or phone bill with an agent-prepared script or chat. You lower your bill, or get a firm answer from retention, without agreeing to a plan change or contract you did not approve."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/negotiate-a-lower-internet-or-phone-bill
+  version: "2026-10-13"
 ---
 
 # Negotiate a lower internet or phone bill with an agent-prepared script or chat

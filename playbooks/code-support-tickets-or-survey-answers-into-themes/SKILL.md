@@ -1,6 +1,11 @@
 ---
 name: code-support-tickets-or-survey-answers-into-themes
 description: "Sort support tickets or survey answers into themes with counts you can check. You get a spreadsheet with every ticket or answer labelled, a theme table with counts and example quotes, and an agreement check that shows how far to trust it."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/code-support-tickets-or-survey-answers-into-themes
+  version: "2026-10-13"
 ---
 
 # Sort support tickets or survey answers into themes with counts you can check

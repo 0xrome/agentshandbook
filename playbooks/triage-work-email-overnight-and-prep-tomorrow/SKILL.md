@@ -1,6 +1,11 @@
 ---
 name: triage-work-email-overnight-and-prep-tomorrow
 description: "Triage your work inbox overnight and prep tomorrow's calendar with a scheduled agent. Each morning you get one brief with the emails that need you, draft replies waiting in your drafts folder, and a list of calendar problems to fix."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/triage-work-email-overnight-and-prep-tomorrow
+  version: "2026-10-13"
 ---
 
 # Triage your work inbox overnight and prep tomorrow's calendar with a scheduled agent

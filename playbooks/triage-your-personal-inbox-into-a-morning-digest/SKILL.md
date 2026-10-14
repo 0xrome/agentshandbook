@@ -1,6 +1,11 @@
 ---
 name: triage-your-personal-inbox-into-a-morning-digest
 description: "Get a short morning digest of your personal inbox with read-only access. Each morning you read one short digest with links to the emails that need you, and nothing in your inbox has changed."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/triage-your-personal-inbox-into-a-morning-digest
+  version: "2026-10-13"
 ---
 
 # Get a short morning digest of your personal inbox with read-only access

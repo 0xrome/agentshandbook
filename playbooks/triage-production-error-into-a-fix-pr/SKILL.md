@@ -1,6 +1,11 @@
 ---
 name: triage-production-error-into-a-fix-pr
 description: "Triage a production error from Sentry or logs into a tested fix pull request. You get a short root cause note backed by the stack trace and code, a failing test that reproduces the error, a small fix that makes it pass, and a local branch ready for your review. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/triage-production-error-into-a-fix-pr
+  version: "2026-10-13"
 ---
 
 # Triage a production error from Sentry or logs into a tested fix pull request

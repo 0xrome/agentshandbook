@@ -1,6 +1,11 @@
 ---
 name: research-accounts-and-draft-first-emails
 description: "Research a list of target accounts and draft first emails for you to review and send. You get a table of researched accounts with a fit score, sources and one draft email each, and nothing is sent until you approve it."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/research-accounts-and-draft-first-emails
+  version: "2026-10-13"
 ---
 
 # Research a list of target accounts and draft first emails for you to review and send

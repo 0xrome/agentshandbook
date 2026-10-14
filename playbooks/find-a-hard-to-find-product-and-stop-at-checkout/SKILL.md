@@ -1,6 +1,11 @@
 ---
 name: find-a-hard-to-find-product-and-stop-at-checkout
 description: "Track down a specific product in stock and stop at checkout for you to pay. You see a short list of real offers for the exact item, and you pay for the one you chose on a site you trust."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/find-a-hard-to-find-product-and-stop-at-checkout
+  version: "2026-10-13"
 ---
 
 # Track down a specific product in stock and stop at checkout for you to pay

@@ -1,6 +1,11 @@
 ---
 name: do-a-literature-review-of-papers-on-a-topic
 description: "Do a literature review with an agent that finds, screens and summarises real papers. You get a screening log, an evidence table with one row per included paper, a synthesis that cites only papers you hold, and a reference list where every entry resolves to a real record. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/do-a-literature-review-of-papers-on-a-topic
+  version: "2026-10-13"
 ---
 
 # Do a literature review with an agent that finds, screens and summarises real papers

@@ -1,6 +1,11 @@
 ---
 name: prepare-tax-documents-and-a-summary-for-your-accountant
 description: "Gather your tax documents into one folder and write a checked summary for your accountant. Your accountant gets one tidy folder, a list of every form with its key figures and source, a list of missing documents, and your open questions."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/prepare-tax-documents-and-a-summary-for-your-accountant
+  version: "2026-10-13"
 ---
 
 # Gather your tax documents into one folder and write a checked summary for your accountant

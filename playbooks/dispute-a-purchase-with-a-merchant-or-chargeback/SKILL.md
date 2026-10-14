@@ -1,6 +1,11 @@
 ---
 name: dispute-a-purchase-with-a-merchant-or-chargeback
 description: "Get a refund from a merchant, then dispute the card charge if they refuse. You send the seller a clear refund request with evidence, and if that fails you file a card dispute on time with the same evidence."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/dispute-a-purchase-with-a-merchant-or-chargeback
+  version: "2026-10-13"
 ---
 
 # Get a refund from a merchant, then dispute the card charge if they refuse

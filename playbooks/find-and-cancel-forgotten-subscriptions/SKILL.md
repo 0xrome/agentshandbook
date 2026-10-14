@@ -1,6 +1,11 @@
 ---
 name: find-and-cancel-forgotten-subscriptions
 description: "Find forgotten subscriptions in your email and statements, then cancel the ones you choose. You get a list of every recurring charge with its price and renewal date, and you cancel the ones you choose with a confirmation for each."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/find-and-cancel-forgotten-subscriptions
+  version: "2026-10-13"
 ---
 
 # Find forgotten subscriptions in your email and statements, then cancel the ones you choose

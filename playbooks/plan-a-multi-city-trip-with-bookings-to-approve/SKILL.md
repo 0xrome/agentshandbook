@@ -1,6 +1,11 @@
 ---
 name: plan-a-multi-city-trip-with-bookings-to-approve
 description: "Plan a multi-city trip and line up every booking for you to approve. You get a day-by-day itinerary with one chosen option per leg and per night, each checked against the live booking page, and you pay for each booking yourself."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/plan-a-multi-city-trip-with-bookings-to-approve
+  version: "2026-10-13"
 ---
 
 # Plan a multi-city trip and line up every booking for you to approve

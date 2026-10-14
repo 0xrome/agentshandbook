@@ -1,6 +1,11 @@
 ---
 name: find-questions-ai-answers-without-citing-you
 description: "Find the questions AI assistants answer without naming your brand, and plan content to fix it. You get a table of buyer questions with your mention rate, competitors' mention rates and cited sources per assistant, plus a short content plan for the biggest gaps that you approve."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/find-questions-ai-answers-without-citing-you
+  version: "2026-10-13"
 ---
 
 # Find the questions AI assistants answer without naming your brand, and plan content to fix it

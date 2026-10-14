@@ -1,6 +1,11 @@
 ---
 name: find-and-book-a-restaurant-or-appointment
 description: "Find and book a restaurant table or local appointment with a shortlist you approve. You have a confirmed booking at a place you chose, at the right date, time and party size, with the cancellation terms known."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/find-and-book-a-restaurant-or-appointment
+  version: "2026-10-13"
 ---
 
 # Find and book a restaurant table or local appointment with a shortlist you approve

@@ -1,6 +1,11 @@
 ---
 name: build-a-weekly-kpi-report-for-approval
 description: "Build a weekly KPI report from your spreadsheets and send the draft for approval. Every Monday you get a draft report with this week's KPIs, the change from last week, a data check section and three lines of commentary, ready for one person to approve and send."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/build-a-weekly-kpi-report-for-approval
+  version: "2026-10-13"
 ---
 
 # Build a weekly KPI report from your spreadsheets and send the draft for approval

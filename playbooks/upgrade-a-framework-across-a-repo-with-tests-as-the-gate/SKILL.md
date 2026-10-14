@@ -1,6 +1,11 @@
 ---
 name: upgrade-a-framework-across-a-repo-with-tests-as-the-gate
 description: "Upgrade a framework across a repo with a coding agent and the test suite as the gate. The repo runs on the new version on a branch of small commits, the full test suite passes with no tests removed, and you have a list of behaviour changes to check in staging. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/upgrade-a-framework-across-a-repo-with-tests-as-the-gate
+  version: "2026-10-13"
 ---
 
 # Upgrade a framework across a repo with a coding agent and the test suite as the gate

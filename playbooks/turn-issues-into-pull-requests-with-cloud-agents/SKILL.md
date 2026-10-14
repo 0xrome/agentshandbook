@@ -1,6 +1,11 @@
 ---
 name: turn-issues-into-pull-requests-with-cloud-agents
 description: "Turn small tracker issues into reviewed pull requests with cloud coding agents. Each chosen issue gets a pull request with a passing test run that you review, ask to change, merge or close. You stay in control of every merge. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/turn-issues-into-pull-requests-with-cloud-agents
+  version: "2026-10-13"
 ---
 
 # Turn small tracker issues into reviewed pull requests with cloud coding agents

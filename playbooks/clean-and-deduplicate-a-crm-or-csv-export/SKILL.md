@@ -1,6 +1,11 @@
 ---
 name: clean-and-deduplicate-a-crm-or-csv-export
 description: "Clean and deduplicate a messy CRM or CSV export without losing real records. You get a clean file, a change log that explains every merge, and a short review sheet of possible duplicates for you to decide, with every original row accounted for."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/clean-and-deduplicate-a-crm-or-csv-export
+  version: "2026-10-13"
 ---
 
 # Clean and deduplicate a messy CRM or CSV export without losing real records

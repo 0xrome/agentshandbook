@@ -1,6 +1,11 @@
 ---
 name: track-new-papers-or-releases-in-a-field-daily
 description: "Track new papers and releases in your field with a daily agent digest. Each weekday you get one message with the few new papers and releases that match your interests, each with a link, a one-line reason it matters, and a clear note when nothing new appeared. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/track-new-papers-or-releases-in-a-field-daily
+  version: "2026-10-13"
 ---
 
 # Track new papers and releases in your field with a daily agent digest

@@ -1,6 +1,11 @@
 ---
 name: prepare-for-a-doctor-appointment-with-an-organized-summary
 description: "Prepare for a doctor's appointment with a one-page summary and question list. You bring a one-page summary of your symptoms, timeline and medicines, plus three to five questions, and your doctor makes every medical judgment."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/prepare-for-a-doctor-appointment-with-an-organized-summary
+  version: "2026-10-13"
 ---
 
 # Prepare for a doctor's appointment with a one-page summary and question list

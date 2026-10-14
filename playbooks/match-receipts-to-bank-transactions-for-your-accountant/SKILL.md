@@ -1,6 +1,11 @@
 ---
 name: match-receipts-to-bank-transactions-for-your-accountant
 description: "Match receipts to bank transactions and flag VAT or sales tax questions for your accountant. You get a workbook with every bank line matched to a receipt or marked missing, a proposed category for each, and a short list of VAT or sales tax questions for your accountant."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/match-receipts-to-bank-transactions-for-your-accountant
+  version: "2026-10-13"
 ---
 
 # Match receipts to bank transactions and flag VAT or sales tax questions for your accountant

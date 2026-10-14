@@ -1,6 +1,11 @@
 ---
 name: search-unclaimed-property-in-every-state-you-lived-in
 description: "Search for unclaimed money under every name and in every state you have lived in. You get a table of real matching records from official state sites, each with a link, and you file the claims you choose on those sites yourself."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/search-unclaimed-property-in-every-state-you-lived-in
+  version: "2026-10-13"
 ---
 
 # Search for unclaimed money under every name and in every state you have lived in

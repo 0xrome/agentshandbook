@@ -1,6 +1,11 @@
 ---
 name: fix-robots-txt-for-ai-crawlers
 description: "Fix robots.txt so AI search crawlers can read your site. Your robots.txt allows the AI search crawlers you choose, keeps private paths blocked, and you have checked the live result."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/fix-robots-txt-for-ai-crawlers
+  version: "2026-10-13"
 ---
 
 # Fix robots.txt so AI search crawlers can read your site

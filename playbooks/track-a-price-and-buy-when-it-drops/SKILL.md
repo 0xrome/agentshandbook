@@ -1,6 +1,11 @@
 ---
 name: track-a-price-and-buy-when-it-drops
 description: "Track a product's price and buy when it drops below your target, with you approving the purchase. You buy the exact product you chose at or below your target price, and you pay for it yourself after checking the final total."
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/track-a-price-and-buy-when-it-drops
+  version: "2026-10-13"
 ---
 
 # Track a product's price and buy when it drops below your target, with you approving the purchase

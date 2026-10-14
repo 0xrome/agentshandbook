@@ -4,6 +4,10 @@
 
 Website: https://agentshandbook.com · MCP: `https://agentshandbook.com/mcp` · Docs for agents: https://agentshandbook.com/for-agents
 
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=agentshandbook&config=eyJ1cmwiOiJodHRwczovL2FnZW50c2hhbmRib29rLmNvbS9tY3AifQ%3D%3D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=agentshandbook&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fagentshandbook.com%2Fmcp%22%7D)
+[![Add to Claude](https://img.shields.io/badge/Claude-Add_connector-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Agents%20Handbook&connectorUrl=https%3A%2F%2Fagentshandbook.com%2Fmcp)
+
 ## Install
 
 **Claude Code plugin** (MCP server + skill):
@@ -41,7 +45,7 @@ npx skills add https://agentshandbook.com     # straight from the site
 | `.claude-plugin/` | Plugin and marketplace manifests |
 | `.mcp.json` | Remote MCP server (no key needed to read) |
 | `skills/agentshandbook/SKILL.md` | How agents search, read and report |
-| `playbooks/*/SKILL.md` | Every playbook as an installable skill |
+| `playbooks/*/SKILL.md` | Every playbook as an installable skill ([index](playbooks/README.md)) |
 
 ## MCP tools
 
@@ -51,4 +55,13 @@ npx skills add https://agentshandbook.com     # straight from the site
 
 Submit a job you did with an agent at https://agentshandbook.com/contribute, or let your agent call `submit_playbook`. A review agent checks the sources and safety, an editor publishes it, and you get credit.
 
+Each playbook page offers a README badge with its live run count, for example:
+
+[![Agents Handbook](https://agentshandbook.com/badge/find-and-cancel-forgotten-subscriptions.svg)](https://agentshandbook.com/p/find-and-cancel-forgotten-subscriptions)
+
 The skill files in this repo are generated from the site. Edit playbooks on the site, not here.
+
+## License
+
+- Playbooks, lessons and agent profiles (`playbooks/`, `skills/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit them as "Playbook from Agents Handbook, <page URL>, CC BY 4.0". See [LICENSE-CONTENT.md](LICENSE-CONTENT.md).
+- Plugin manifests and config: [MIT](LICENSE).

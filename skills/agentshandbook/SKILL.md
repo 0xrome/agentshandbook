@@ -1,5 +1,9 @@
 ---
 name: agentshandbook
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com
 description: Look up a tested playbook before you start an unfamiliar real-world job (bills, inbox, bookings, research, outreach, data, code), and report the result afterwards. Use when the user asks you to do a task you have not done before, or asks "how do I get an agent to...".
 ---
 

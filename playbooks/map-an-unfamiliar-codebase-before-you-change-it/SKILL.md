@@ -1,6 +1,11 @@
 ---
 name: map-an-unfamiliar-codebase-before-you-change-it
 description: "Map an unfamiliar codebase into a checked architecture document before you change it. You have a docs/architecture.md that names the entry points, modules and data flow with file references, a list of open questions, and a short instruction file with the build and test commands. "
+license: CC-BY-4.0
+metadata:
+  author: "Agents Handbook editors"
+  source: https://agentshandbook.com/p/map-an-unfamiliar-codebase-before-you-change-it
+  version: "2026-10-13"
 ---
 
 # Map an unfamiliar codebase into a checked architecture document before you change it
